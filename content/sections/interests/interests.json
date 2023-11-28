@@ -22,13 +22,6 @@
       }
     },
     {
-      "label": "Gatsby",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
       "label": "SQL",
       "image": {
         "src": "",
@@ -36,7 +29,14 @@
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "AWS S3",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
       "image": {
         "src": "",
         "alt": ""

@@ -2,10 +2,32 @@
   "projects": [
     {
       "visible": true,
-      "category": "NYC Running Routes web app",
+      "category": "Application for electronic artists to create and organize their performance setups",
+      "title": "BleepBloop",
+      "description": "Managed app state with Context API to reduce the need for prop-drilling. Implemented Active Storage with AWS S3 to store user avatars. Authenticated users at login and assured user password security by hashing them with bcrypt. Styled dropdown menu with Material UI and remaining front-end with Bootstrap to maintain sylistic consistency. ",
+      "tags": ["Javascript", "React", "Bootstrap", "Material UI", "Ruby", "Ruby on Rails", "Context API", "AWS S3", "Active Storage", "bcrypt", "CRUD"],
+      "image": {
+        "src": "../../images/bleepbloopimage.jpg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/marskimiko/bleepbloop-application"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/marskimiko/bleepbloop-application"
+        },
+        {
+          "type": "external",
+          "url": "https://www.youtube.com/watch?v=ofgClSuVnUI"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "application for runners in NYC to upload routes and write reviews on them to share with each other",
       "title": "Big Apple Runners",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Javascript", "React", "Bootstrap", "CSS", "Ruby", "Ruby on Rails"],
+      "description": "Engineered user interface with Javascript & React and styled with Bootstrap and Styled Components. Implemented Rails Serializer to allow for all data to be fetched through a singular route. Modeled database schema and RESTful API routes with Active Record for more streamlined database interaction. Utilized localstorage to store encrypted user information.",
+      "tags": ["Javascript", "React", "Bootstrap", "Styled Components", "Ruby", "Ruby on Rails", "RESTful API", "Active Record", "Localstorage", "CRUD"],
       "image": {
         "src": "../../images/bigapplerunners_screenshot.png",
         "alt": "Extendable Layout",
@@ -24,10 +46,10 @@
     },
     {
       "visible": true,
-      "category": "Job Board Web App",
+      "category": "Job board application for quick gigs for creatives",
       "title": "Quicky",
-      "description": "Single page full-stack CRUD app acting as a job board to post quick gigs for creatives. Developed using Ruby and a Sinatra API on the backend and Javascript / React on the front-end",
-      "tags": ["Javascript", "React", "Ruby", "Sinatra"],
+      "description": "Used Ruby with a Sinatra API on the backend to store both seeded and new user entered data.  Utilized byebug gem to aid in debugging throughout development process. Designed a filter feature to allow users to sort through listings by job type. Used OO design patterns by creating separate classes per model and used instance or class methods as necessary. Developed application with full CRUD capability on the listing model.",
+      "tags": ["Javascript", "React", "Ruby", "Sinatra", "byebug", "Object Orientation", "CRUD"],
       "image": {
         "src": "../../images/quicky__screenshot.png",
         "alt": "Quick Setup",
