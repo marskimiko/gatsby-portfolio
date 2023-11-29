@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Application for electronic artists to create and organize their performance setups",
       "title": "BleepBloop",
-      "description": "Managed app state with Context API to reduce the need for prop-drilling. Implemented Active Storage with AWS S3 to store user avatars. Authenticated users at login and assured user password security by hashing them with bcrypt. Styled dropdown menu with Material UI and remaining front-end with Bootstrap to maintain sylistic consistency. ",
+      "description": "Managed app state with Context API to reduce the need for prop-drilling. Implemented Active Storage with AWS S3 to store user avatars. Authenticated users at login and assured user password security by hashing them with bcrypt. Styled dropdown menu with Material UI and remaining front-end with Bootstrap to maintain stylistic consistency. ",
       "tags": ["Javascript", "React", "Bootstrap", "Material UI", "Ruby", "Ruby on Rails", "Context API", "AWS S3", "Active Storage", "bcrypt", "CRUD"],
       "image": {
         "src": "../../images/bleepbloopimage.jpg",
