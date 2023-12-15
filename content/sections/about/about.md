@@ -3,7 +3,7 @@ imageSrc: "../../images/polaroidportraitcropped.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I am a Full Stack Developer and graduate of the Flatiron School Software Engineering bootcamp. My journey into tech has been driven by my passion for creating engaging and interactive web applications. I work with JavaScript, React, HTML, CSS, Bootstrap, Ruby, and Rails to build responsive and user-friendly interfaces.
+I am a Full Stack Developer and have a passion for creating engaging and interactive web applications. I work with JavaScript, React, HTML, CSS, Bootstrap, Ruby, and Rails to build responsive and user-friendly interfaces.
 
 With over 5 years of experience as an audio/mixing engineer, I have worked both as a freelancer and collaboratively with industry engineers. My passion and expertise in music and technology allows me to bring a unique perspective and use my creativity and attention to detail to ensure timely project delivery and produce high quality and innovative results that cater to the artistic vision of clients.
 
