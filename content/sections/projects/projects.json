@@ -65,6 +65,28 @@
           "url": "https://youtu.be/xL0QjJo62lU"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Landing Page",
+      "title": "Quicky",
+      "description": "Designed with flexbox in CSS",
+      "tags": ["CSS", "Flexbox"],
+      "image": {
+        "src": "../../images/quickylandingpage.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://marskimiko.github.io/quicky-landingpage/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/marskimiko/quicky-landingpage"
+        },
+        {
+          "type": "external",
+          "url": "https://marskimiko.github.io/quicky-landingpage/"
+        }
+      ]
     }
   ],
   "button": {
